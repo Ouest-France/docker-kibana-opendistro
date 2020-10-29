@@ -6,5 +6,5 @@ Docker image of [Kibana OSS](https://www.elastic.co/downloads/past-releases#kiba
 
 Pull image:
 ```
-docker pull ouestfrance/kibana-opendistro:7.8.0-1
+docker pull ouestfrance/kibana-opendistro:7.9.1-1
 ```
